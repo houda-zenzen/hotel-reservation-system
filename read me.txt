@@ -6,7 +6,7 @@ Ce projet est une application web full-stack de gestion des hôtels et des rése
 
 -  Spring Boot pour le backend
 -  React JS pour le frontend
-- MySQL pour la base de données
+-  MySQL pour la base de données
 
 L’application permet :
 - d’ajouter des hôtels
